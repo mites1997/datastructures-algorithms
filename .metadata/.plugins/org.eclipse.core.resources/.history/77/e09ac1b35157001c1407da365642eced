@@ -1,0 +1,19 @@
+package recursion;
+
+public class GCD {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public int calculategcd(int a, int b) {
+
+		if (a == 0)
+			return b;
+		if (b == 0)
+			return a;
+		return calculategcd(b, a % b);
+	}
+
+}

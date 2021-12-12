@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\mites97\Desktop\Datastructures-algo\.metadata\.plugins\org.eclipse.jdt.core
+1677551967.index
+2572412487.index
