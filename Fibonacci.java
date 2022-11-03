@@ -1,5 +1,8 @@
 public class Fibonacci {
     public static void main(String[] args) {
+        StringBuffer sb1 =new StringBuffer(-121);
+        System.out.println(sb1);
+
 
         System.out.println("fibonacci no is " + fibonacci(5));
     }
