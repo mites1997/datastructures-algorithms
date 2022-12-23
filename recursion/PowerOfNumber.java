@@ -1,3 +1,5 @@
+package recursion;
+
 public class PowerOfNumber {
     public static void main(String[] args) {
         System.out.println("power is "+power(2,5));

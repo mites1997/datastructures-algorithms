@@ -1,3 +1,5 @@
+package recursion;
+
 public class Gcd {
     public static void main(String[] args) {
         System.out.println("gcd is " + calculateGcd(20, 44));
